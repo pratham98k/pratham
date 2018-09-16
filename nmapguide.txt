@@ -1,4 +1,5 @@
 The state is either open, filtered, closed, or unfiltered.
+this line added online
 
  Open.  means that an application on the target machine is listening for connections/packets on that port.
 
@@ -7,7 +8,7 @@ The state is either open, filtered, closed, or unfiltered.
 
   Closed. ports have no application listening on them, though they could open up at any time. though they could open up at any time.
 
- Ports are classified as unfiltered.  when they are responsive to Nmap´s probes, but Nmap cannot determine whether they are open or closed. Nmap reports the state combinations open|filtered. and closed|filtered. 
+ Ports are classified as unfiltered.  when they are responsive to NmapÂ´s probes, but Nmap cannot determine whether they are open or closed. Nmap reports the state combinations open|filtered. and closed|filtered. 
 
 
  Nmap can provide further information on targets, including reverse DNS names, operating system guesses, device types, and MAC addresses.
