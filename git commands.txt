@@ -1,0 +1,16 @@
+yum insatll git-all
+
+# to install git 
+
+git --version
+
+#checking git version
+
+git config --global user.name "First Last"
+
+#introduce yourself to git
+
+git config --global user.name "email@comapmy"
+
+# email id
+
