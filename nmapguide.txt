@@ -1,5 +1,5 @@
 The state is either open, filtered, closed, or unfiltered.
-
+this line added from laptop
  Open.  means that an application on the target machine is listening for connections/packets on that port.
 
  Filtered.  means that a firewall, filter, or other network obstacle is blocking the port so that Nmap cannot tell whether it is open or closed.
